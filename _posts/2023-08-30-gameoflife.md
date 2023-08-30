@@ -1,17 +1,13 @@
 ---
+toc: False
+comments: False
+layout: post
 title: Game of Life
-layout: base
-description: A remix of Conway's game of life using timer, onclick and algorithms.
-permalink: /frontend/life
-image: /images/game_of_life.svg
-tags: [javascript]
+description:
+courses: {'csp': {'week': 2}}
+type: hacks
 ---
 
-{% include nav_frontend.html %}
-
-{% comment %}
-Conway's Game of Life https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-{% endcomment %}
 
 <style>
     #container {
