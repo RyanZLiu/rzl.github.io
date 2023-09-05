@@ -4,7 +4,7 @@ comments: True
 layout: post
 title: Week 1 Summary
 description:
-courses: {'csp': {'week': 1}}
+courses: { compsci: {week: 2}}
 type: hacks
 ---
 

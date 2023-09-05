@@ -4,7 +4,7 @@ comments: False
 layout: post
 title: Game of Life
 description:
-courses: {'csp': {'week': 2}}
+courses: { compsci: {week: 2}}
 type: hacks
 ---
 

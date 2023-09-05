@@ -1,10 +1,10 @@
 ---
-toc: True
-comments: True
+toc: false
+comments: false
 layout: post
 title: Simple Calculator
 description:
-courses: {'csp': {'week': 1}}
+courses: { compsci: {week: 1}}
 type: hacks
 ---
 
